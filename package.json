@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ellukian/test-tools/issues"
   },
-  "homepage": "https://github.com/ellukian/test-tools#readme"
+  "homepage": "https://github.com/ellukian/test-tools#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
